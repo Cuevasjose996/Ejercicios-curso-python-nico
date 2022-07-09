@@ -1,0 +1,7 @@
+Hola mundo, yo soy un chanchito feliz.
+
+Esto es una prueba para 
+utilizar el administrador de 
+archivos.
+agregando una nueva linea a nuestro archivo
+agregando una nueva linea a nuestro archivo
